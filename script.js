@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Jira - Enable Internal Comments Only
 // @namespace    http://tampermonkey.net/
-// @version      1.0.4
+// @version      1.0.5
 // @description  Prevents the "Share With Customer" button from being shown underneath the Comment box and ensures that only internal comments are available on the workflow transition screens
 // @author       Sara Milner, Matthew Lishman, Matt Anstey, Luke Rodgers, Claire Parker
 // @match        https://ampersand.atlassian.net/*
