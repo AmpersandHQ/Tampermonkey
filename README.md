@@ -4,7 +4,7 @@ If you update the script, please also increment the version number to allow the 
 
 ##Instructions for setting up Tampermonkey and running the "Internal Comments Only" Jira script:
 
-Before starting, please note that these instructions are for use with Chrome. Please always use Chrome for Jira with the Tampermonkey script running.
+Before starting, please note that **these instructions are for use with Chrome**. Please always use Chrome for Jira with the Tampermonkey script running.
 
 Download and install the Tampermonkey extension for Chrome from here: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
 
